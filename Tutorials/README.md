@@ -6,6 +6,7 @@
 > ## Beginner [Newbie]
 > 
 > 1. [Instalasi Python](1Beginner/installation.md)
+> 2. [Cara Penggunaan Pemrograman Python](1Beginner/cara-penggunaan.md)
 >
 > ## Intermediate [Junior]
 > - Coming Soon
