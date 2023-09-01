@@ -1,4 +1,4 @@
-<img src="Tutorials/Assets/python.png" width="500" align="center" />
+![python-tutorials](https://socialify.git.ci/codeblues62/python-tutorials/image?description=1&descriptionEditable=Yuk%20Belajar%20Python%20dasar%20di%20seri%20Tutorial%20Python%20Bahasa%20Indonesia%20untuk%20pemula.%0A%0AAyo%20Belajar%20Python%20lewat%20seri%20Python%20dasar%20bahasa%20indonesia&language=1&name=1&owner=1&stargazers=1&theme=Auto)
 
 -----------------------------------------------------
 
