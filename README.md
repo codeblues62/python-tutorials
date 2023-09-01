@@ -11,6 +11,9 @@
 [Python](https://python.org/) programming adalah bahasa pemrograman python yang merupakan bahasa  _**Hybrid**_ dengan cara menginterpretasikan dan bukan dengan cara kompilasi (Compiled) seperti bahasa pemrograman pada umumnya yang mengharuskan di kompilasi terlebih dahulu. Namun saat kita ingin menjalankan bahasa Python, kita tidak perlu melakukan kompilasi pada program kita dengan cara `python sourceFile.py` melalui _**Command Line Interface (CLI)**_, akan tetapi kita juga bisa melakukan kompilasi terlebih dahulu sebelum menjalankan programnya. Seperti: `python -m py_compile sourceFile.py` melalui _**Command Line Interface (CLI)**_.
 
 ## Siapa Pembuat Bahasa Pemrograman Python
+
+![Guido Van Rossum](Tutorials/Assets/gvanrossum.jpeg)
+
 [Guido Van Rossum](https://gvanrossum.github.io) adalah salah satu jagoan dari bahasa Pemrograman _**ABC & Modula+***_ yang merupakan bahasa pemrograman _Interpreted_. Pada tahun _1989_, guido van rossum bertemu dengan seseorang yang bernama _**Andrew S.Tenenbaum**_ dari **Vrije Universiteit Amsterdam** dan mengajak guido van rossum untuk membuat bahasa pemrograman amoeba (komputer), karena yang hanya diketahui oleh andrew s.tenenbaum bahwa guido van rossum sangatlah ahli dalam mendesain bahasa pemrograman. Semenjak pertemuan itu, mulailah proses untuk pembuatan bahasa pemrograman python seperti yang kita ketahui.
 Lantas, Kenapa namanya harus _**Python**_? seperti nama ular saja. Karena guido van rossum sangat menyukai acara pertunjukkan sirkus yang di persembahkan oleh _**Monty Python**_ dan guido mengambil nama bagian belakang dari acara sirkus tersebut yakni _**Python**_.
 
