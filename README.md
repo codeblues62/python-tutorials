@@ -64,4 +64,4 @@ begin
 end.
 ```
 
-Untuk tutorial selengkapnya nanti teman-teman bisa masuk kedalam Directory / Folder yang telah disediakan, dan kami akan terus mengupdate tutorial selanjutnya..
+> Berminat & ingin bergabung dengan komunitas kami? [Gabung Sekarang!](https://t.me/codeblues62)
