@@ -38,3 +38,5 @@ Langkah ini akan menginstal Python di lokasi standar `/usr/local/bin` dan librar
 ### Acode Text Editor [Download Disini](https://drive.google.com/file/d/1YI9ou6QqH4PDhFW0HxBCk06GwAy0Qq0x/view?usp=drivesdk)
 
 > Berminat & ingin bergabung dengan komunitas kami? [Gabung Sekarang!](https://t.me/codeblues62)
+
+> _**Sebelumnya:**_ [Pendahuluan Python](../../README.md) | _**Selanjutnya:**_ [Cara Penggunaan Pemrograman Python](cara-penggunaan.md)
