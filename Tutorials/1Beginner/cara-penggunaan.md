@@ -31,6 +31,7 @@ Atau bisa juga dengan cara:
 2. Tuliskan sintaks Python, contoh: `print("Selamat Datang di Python Shell")` lalu tekan `Enter` pada keyboard, setelah menekan `Enter` maka Python akan secara langsung menjalan/eksekusi sintaksnya
 
 ![Python Interactive Shell](https://belajarpython.com/img/menjalankan-python-windows.png)
+
 Maka akan muncul seperti gambar berikut jika sudah membuka Python Shell-nya
 
 3. Untuk bisa keluar dari mode _**Python Shell**_ silahkan ketikkan `exit()` atau `ctrl`+`z`
