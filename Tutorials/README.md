@@ -5,7 +5,7 @@
 
 > ## Beginner [Newbie]
 > 
-> 1. [Instalasi Python](https://github.com/codeblues62/python-tutorials/Tutorials/%5B1%5D%20Beginner/installation.md)
+> 1. [Instalasi Python](1Beginner/installation.md)
 >
 > ## Intermediate [Junior]
 > - Coming Soon
