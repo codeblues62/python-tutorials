@@ -36,3 +36,5 @@ Langkah ini akan menginstal Python di lokasi standar `/usr/local/bin` dan librar
 ## Opsi Lainnya
 ### Termux [Download Disini](https://f-droid.org/id/packages/com.termux/)
 ### Acode Text Editor [Download Disini](https://drive.google.com/file/d/1YI9ou6QqH4PDhFW0HxBCk06GwAy0Qq0x/view?usp=drivesdk)
+
+> Berminat & ingin bergabung dengan komunitas kami? [Gabung Sekarang!](https://t.me/codeblues62)
