@@ -14,7 +14,7 @@
 
 ![Guido Van Rossum](Tutorials/Assets/gvanrossum.jpeg)
 
-[Guido Van Rossum](https://gvanrossum.github.io) adalah salah satu jagoan dari bahasa Pemrograman _**ABC & Modula+***_ yang merupakan bahasa pemrograman _Interpreted_. Pada tahun _1989_, guido van rossum bertemu dengan seseorang yang bernama _**Andrew S.Tenenbaum**_ dari **Vrije Universiteit Amsterdam** dan mengajak guido van rossum untuk membuat bahasa pemrograman amoeba (komputer), karena yang hanya diketahui oleh andrew s.tenenbaum bahwa guido van rossum sangatlah ahli dalam mendesain bahasa pemrograman. Semenjak pertemuan itu, mulailah proses untuk pembuatan bahasa pemrograman python seperti yang kita ketahui.
+[Guido Van Rossum](https://gvanrossum.github.io) adalah salah satu jagoan dari bahasa Pemrograman _**ABC & Modula+**_ yang merupakan bahasa pemrograman _Interpreted_. Pada tahun _1989_, guido van rossum bertemu dengan seseorang yang bernama _**Andrew S.Tenenbaum**_ dari **Vrije Universiteit Amsterdam** dan mengajak guido van rossum untuk membuat bahasa pemrograman amoeba (komputer), karena yang hanya diketahui oleh andrew s.tenenbaum bahwa guido van rossum sangatlah ahli dalam mendesain bahasa pemrograman. Semenjak pertemuan itu, mulailah proses untuk pembuatan bahasa pemrograman python seperti yang kita ketahui.
 Lantas, Kenapa namanya harus _**Python**_? seperti nama ular saja. Karena guido van rossum sangat menyukai acara pertunjukkan sirkus yang di persembahkan oleh _**Monty Python**_ dan guido mengambil nama bagian belakang dari acara sirkus tersebut yakni _**Python**_.
 
 ## Kapan Bahasa Python Dirilis?
