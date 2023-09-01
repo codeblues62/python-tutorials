@@ -1,4 +1,4 @@
-![Python Programming](Tutorials/Assets/python.png)
+![Python Programming](Assets/python.png)
 
 # Tingkatan Materi Pembelajaran Pemrograman Python
 ---
