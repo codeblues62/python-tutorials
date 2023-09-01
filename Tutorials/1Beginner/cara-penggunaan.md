@@ -60,6 +60,4 @@ Atau bisa juga dengan cara:
 4. Tuliskan sintaks Python, contoh: `print("Selamat Datang di Python Shell")` lalu tekan `Enter` pada keyboard, setelah menekan `Enter` maka Python akan secara langsung menjalan/eksekusi sintaksnya
 5. Untuk bisa keluar dari mode _**Python Shell**_ silahkan ketikkan `exit()` atau `ctrl`+`z`
 
-> ***Catatan***: Untuk penggunaan Acode lebih mendalam bisa [bergabung](https://t.me/codeblues62) di komunitas kami
-
 > _**Sebelumnya:**_ [Instalasi Bahasa Python](cara-penggunaan.md) | _**Selanjutnya:**_ [Membuat Program Hello World Dengan Python](hello-world.md)
