@@ -8,7 +8,7 @@
 > 1. [Instalasi Python](1Beginner/installation.md)
 > 2. [Cara Penggunaan Pemrograman Python](1Beginner/cara-penggunaan.md)
 > 3. [Hello World Python](1Beginner/hello-world.md)
-> 3. [Variabel & Komentar Python](1Beginner/variabel-komentar.md)
+> 3. [Variabel & Komentar](1Beginner/variabel-komentar.md)
 >
 > ## Intermediate [Junior]
 > - Coming Soon
